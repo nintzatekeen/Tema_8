@@ -5,6 +5,7 @@ import java.io.IOException;
 public class DividePorCero {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		int e1=0, e2=0;
+		System.out.println("Salu2");
 		try {
 			System.out.println("Introduzca un entero:");
 			e1=Consola2.leeInt();
